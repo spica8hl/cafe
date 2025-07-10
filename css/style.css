@@ -328,6 +328,10 @@ form input[type = "submit"]{
   display:block;
   margin:0 auto;
 }
+.product-text a{
+  text-decoration: none;
+  color:#fff;
+}
 .buy-button {
   background-color: #6b4f3b; /* コーヒー色 */
   color: #f
